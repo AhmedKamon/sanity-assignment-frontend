@@ -1,0 +1,8 @@
+.banner{
+    background-image: url('../public/banner_cta_bg.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    margin-top: 8%;
+  }
